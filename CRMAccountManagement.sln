@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.489
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CRMAccountManagement", "CRMAccountManagement\CRMAccountManagement.csproj", "{908A170F-BEC2-4DE9-8709-62C9E9E41111}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{908A170F-BEC2-4DE9-8709-62C9E9E41111}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{908A170F-BEC2-4DE9-8709-62C9E9E41111}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{908A170F-BEC2-4DE9-8709-62C9E9E41111}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{908A170F-BEC2-4DE9-8709-62C9E9E41111}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {06364EFD-64F7-4B22-8A6C-6D37E1208235}
+	EndGlobalSection
+EndGlobal
